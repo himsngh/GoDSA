@@ -10,12 +10,6 @@
 
 package arrays
 
-import (
-	"fmt"
-	"math/rand"
-	"time"
-)
-
 /*
 	  Using Brute Force : For every element check for another element if it exist in the array such that sum of
 						  both the element is equals to the target
