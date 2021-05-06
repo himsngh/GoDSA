@@ -4,10 +4,10 @@ import "testing"
 
 func TestBinarySearch(t *testing.T) {
 
-	arr := []int{1,4,5,7,8,9,12,15,29,33}
-	targets := []int{4,1,29,27}
+	arr := []int{1, 4, 5, 7, 8, 9, 12, 15, 29, 33}
+	targets := []int{4, 1, 29, 27}
 
-	want := []int{1,0,8,-1}
+	want := []int{1, 0, 8, -1}
 
 	for i, target := range targets {
 
