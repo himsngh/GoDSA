@@ -6,6 +6,8 @@ You can find many different types of problems related to DSA and their solutions
 
 ## Arrays
 1.  [Two Sum](Arrays/twoSum.go)
+2.  [Maximum Subarray Sum](Arrays/maximum_subarray_sum.go)
+3.  [Remove Element](Arrays/remove_element_test.go)
 
 ## Searching
 1.  [BinarySearch](Searching/binary_search.go)
