@@ -1,8 +1,7 @@
 # GoDSA
 
 ## Data Structures and Algorithms in Golang
-This repository contains data related to DSA. Almost all the question are from [LEETCODE](https://leetcode.com/problems).
-You can find many different types of problems related to DSA and their solutions in Golang.
+This repository contains problems related to Data structures and Algorithms and their solutions in Golang (in some cases Java). Almost all the question are from [LEETCODE](https://leetcode.com/problems).
 
 ## Arrays
 1.  [Two Sum](Arrays/twoSum.go)
